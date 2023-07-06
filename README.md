@@ -17,7 +17,7 @@ Project is created with:
 To run the app on your local computer:
   * Clone the repository
   ```
-    git clone https://github.com/AnthonyMogotlane/waiter-availability-app.git
+    git clone https://github.com/AnthonyMogotlane/entrebyte-recruitment-website.git
   ```
   * Install dependencies:
   ```
